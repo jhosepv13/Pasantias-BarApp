@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Login"
+        android:title="Inciar Sesión"
+        android:layout_gravity="center_horizontal|center">
+    </item>
+
+    <item
+        android:id="@+id/Ubication"
+        android:title="UBICACIÓN">
+    </item>
+
+    <item
+        android:id="@+id/Categories"
+        android:title="CATEGORÍAS">
+    </item>
+
+    <item
+        android:id="@+id/Call_us"
+        android:title="¡LLÁMANOS!">
+    </item>
+</menu>

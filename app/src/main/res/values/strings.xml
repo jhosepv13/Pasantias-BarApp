@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BarApp</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- NAVIGATION BUTTON -->
+    <string name="Open_Nav">Open</string>
+    <string name="Close_Nav">Close</string>
+    <string name="title_activity_ubication">Map</string>
+</resources>
